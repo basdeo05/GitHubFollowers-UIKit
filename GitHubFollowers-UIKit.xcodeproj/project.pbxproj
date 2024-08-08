@@ -38,7 +38,6 @@
 		DD75A0122C656B4600B96CE0 /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD75A00F2C656B4600B96CE0 /* ErrorMessage.swift */; };
 		DDA9A5FD2C65676300A7AE1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA9A5FC2C65676300A7AE1E /* AppDelegate.swift */; };
 		DDA9A5FF2C65676300A7AE1E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA9A5FE2C65676300A7AE1E /* SceneDelegate.swift */; };
-		DDA9A6012C65676300A7AE1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA9A6002C65676300A7AE1E /* ViewController.swift */; };
 		DDA9A6062C65676400A7AE1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDA9A6052C65676400A7AE1E /* Assets.xcassets */; };
 		DDA9A6092C65676400A7AE1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDA9A6072C65676400A7AE1E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -76,7 +75,6 @@
 		DDA9A5F92C65676300A7AE1E /* GitHubFollowers-UIKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitHubFollowers-UIKit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDA9A5FC2C65676300A7AE1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DDA9A5FE2C65676300A7AE1E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		DDA9A6002C65676300A7AE1E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DDA9A6052C65676400A7AE1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDA9A6082C65676400A7AE1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DDA9A60A2C65676400A7AE1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -264,7 +262,6 @@
 				DD75A00C2C656B4600B96CE0 /* Utilities */,
 				DDA9A5FC2C65676300A7AE1E /* AppDelegate.swift */,
 				DDA9A5FE2C65676300A7AE1E /* SceneDelegate.swift */,
-				DDA9A6002C65676300A7AE1E /* ViewController.swift */,
 				DDA9A6052C65676400A7AE1E /* Assets.xcassets */,
 				DDA9A6072C65676400A7AE1E /* LaunchScreen.storyboard */,
 				DDA9A60A2C65676400A7AE1E /* Info.plist */,
@@ -345,7 +342,6 @@
 				DD759FFC2C656B3300B96CE0 /* GFRepoItemVC.swift in Sources */,
 				DD75A0022C656B3300B96CE0 /* GFEmptyStateView.swift in Sources */,
 				DD759FF82C656B3300B96CE0 /* GFSecondayTitleLabel.swift in Sources */,
-				DDA9A6012C65676300A7AE1E /* ViewController.swift in Sources */,
 				DD759FDB2C656B2400B96CE0 /* UIViewController+Ext.swift in Sources */,
 				DD759FD42C656B0A00B96CE0 /* Follower.swift in Sources */,
 				DD75A0002C656B3300B96CE0 /* GFUserInfoHeaderVC.swift in Sources */,

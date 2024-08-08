@@ -181,6 +181,7 @@ class FollowerListViewController: UIViewController {
                     
                     guard let error = error else {
                         self?.presentGFAlertOnMainThread(title: "Succes!", message: "You have successfully favorited this user 🎉", buttonTitle: "Hooray!")
+                        self?.dismissLoadingView()
                         
                         return
                     }
